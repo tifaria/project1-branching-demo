@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 practice to until death
 
+=======
+print(" this line added by Cesur")
+>>>>>>> b14da85dd17d2ef22a880546cd93a878aa9a0711
 =======
 print("hello world")
 favorite_number = 25
